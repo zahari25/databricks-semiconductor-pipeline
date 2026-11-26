@@ -96,7 +96,7 @@ Con este proyecto demostré el flujo completo de un pipeline de datos profesiona
 
 ## Estructura del proyecto
 notebooks/
-____01_Architecture_Semiconductor.ipynb
+____01_Arquitecture_Semiconductor.ipynb
 
 
 ## Autor
